@@ -1,0 +1,40 @@
+body {
+  width: 333px;
+  overflow-x: hidden;
+  background-color: #B32317;
+}
+
+img {
+  margin: 5px;
+  border: 2px solid black;
+  vertical-align: middle;
+  width: 75px;
+  height: 75px;
+}
+
+.valid {
+  
+}
+
+.invalid {
+  color: #B32317;
+}
+
+select {
+  width: 150px;
+  background-color: white;
+  color: black;
+}
+
+input {
+  width: 110px;
+  background-color: white;
+  color: black;
+}
+
+#search {
+  height: 16;
+  width: 25;
+  background-color: white;
+  color: black;
+}

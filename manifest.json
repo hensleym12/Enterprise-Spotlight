@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Enterprise Spotlight",
+  "version": "1.0",
+  "description": "This extension allows faster navigation through PlattForm's enterprise system UI.",
+  "author": "Matt Hensley",
+
+  "update_url": "\\\\PFSHQFS1\\Departments\\Programmers\\Matt.Hensley\\Enterprise Spotlight Extention\\update.xml",
+
+    "permissions": [
+    "tabs",
+    "<all_urls>"
+  ],
+
+    "browser_action": {
+    "default_icon": "img/icon.png",
+    "default_popup": "popup.html"
+  }
+}
